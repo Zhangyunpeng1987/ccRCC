@@ -20,5 +20,5 @@ ccRCC/
 ├── README.md                 # Project Overview & Instructions
 ├── LICENSE                   # MIT License
 ├── Code_summary/             # Analysis Source Code
-│   ├── CODE-ATAC_cleaned.R      # Code for all scATAC-seq analysis results
-│   ├── CODE-RNA_cleaned.R             # Code for all scRNA-seq analysis results
+│   ├── ATAC_code      # Code for all scATAC-seq analysis results
+│   ├── RNA_code             # Code for all scRNA-seq analysis results
